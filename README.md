@@ -1,9 +1,8 @@
-# SafeMEData
-SafeMEData es un proyecto que busca solucionar el conflicto de la búsqueda repetitiva de datos en un expediente médico, el cual muchas veces al ir al médico puede resultar tediosos en la Journey del paciente y el personal médico, por lo que la implementación de tecnología ha sido un objetivo que se ha buscado lograr al desarrollar este historial de manera digitalizada. Es aquí cuando surge el problema de que la gente suele sentir desconfianza por la exposición que tienen a un ciberataque y a la exposición desregularizada de sus información. Por estas razones es que el equipo propone la implementación de las tecnologías blockchain y la tokenización para poder así almacenar la información del paciente a través de un NFT único por persona que sea seguro al brindar un token único para el paciente y el médico que lo esta tratando, para que así solo ellos puedan ver la información creando así un ambiente en el que el paciente pueda sentirse seguro y en el que la ontención de su información para procedimientos médicos sea fácilmente obtenible.
-
 # SafeMEData 🏥🔗  
 *Plataforma de Gestión Hospitalaria Descentralizada Basada en Internet Computer Protocol (ICP)*  
 Transformando el journey del paciente con blockchain: seguridad, velocidad y empoderamiento.
+---
+SafeMEData es un proyecto que busca solucionar el conflicto de la búsqueda repetitiva de datos en un expediente médico, el cual muchas veces al ir al médico puede resultar tediosos en la Journey del paciente y el personal médico, por lo que la implementación de tecnología ha sido un objetivo que se ha buscado lograr al desarrollar este historial de manera digitalizada. Es aquí cuando surge el problema de que la gente suele sentir desconfianza por la exposición que tienen a un ciberataque y a la exposición desregularizada de sus información. Por estas razones es que el equipo propone la implementación de las tecnologías blockchain y la tokenización para poder así almacenar la información del paciente a través de un NFT único por persona que sea seguro al brindar un token único para el paciente y el médico que lo esta tratando, para que así solo ellos puedan ver la información creando así un ambiente en el que el paciente pueda sentirse seguro y en el que la ontención de su información para procedimientos médicos sea fácilmente obtenible.
 
 ---
 
